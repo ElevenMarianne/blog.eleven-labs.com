@@ -54,7 +54,8 @@ Green IT détaille par acteurs qui sont les plus gros consommateurs de ressource
 3. les data centers : **4 à 15 %** des impacts
 
 La fabrication de nos équipements, (smartphone, tablettes, desktop...) représente donc l'axe majeur sur lequel travailler pour réduire l'impact écologique du numérique. 
-A notre niveau, concevoir des applications numériques moins gourmandes, rationnaliser l'intégration de fonctionnalités qui nécessitent des équipements dernier cris (ex : Touch ID par exemple), peut y contribuer. Les utilisateurs de nos sites, applications et services numériques peuvent garder plus longtemps leurs équipements et sont moins incités à investir dans un matériel plus performant tous les ans. C'est un effort de longue haleine et collectif à produire, challengeant de part la complexité par exemple à maintenir d'anciennes versions, mais qui peut permettre de réduire le phénomène d’obsolescence programmée de nos équipements tout en favorisant l'inclusion numérique !
+
+A notre niveau, concevoir des applications numériques moins gourmandes ou encore rationnaliser l'intégration de fonctionnalités qui nécessitent des équipements dernier cris (Touch ID par exemple) peut y contribuer. Les utilisateurs de nos sites, applications et services numériques peuvent garder plus longtemps leurs équipements et sont moins incités à investir dans un matériel plus performant tous les ans. C'est un effort collectif de longue haleine à produire, challengeant de part la complexité par exemple à maintenir d'anciennes versions, mais qui peut permettre de réduire le phénomène d’obsolescence programmée de nos équipements tout en favorisant l'inclusion numérique !
 
 **Les services numériques peuvent donc aider à la diminution de leurs propres impacts écologiques par différentes recommandations que l'on vous livre dans la suite de cet article.**
 
