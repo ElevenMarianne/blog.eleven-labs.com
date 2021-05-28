@@ -38,7 +38,7 @@ Sans rentrer dans les détails, l’équipe de [Green IT](https://www.greenit.fr
 
 Nous pouvons penser que la majorité de la pollution vient de l’électricité pour faire fonctionner les produits et services informatiques, mais c’est en réalité la fabrication.
 
-*Tableau représentant la part de fabrication et d’utilisation - [Rapport Green IT](https://www.greenit.fr/wp-content/uploads/2021/02/2021-01-iNum-etude-impacts-numerique-France-rapport-0.8.pdf)*
+*Tableau représentant la part de fabrication et d’utilisation [Rapport Green IT](https://www.greenit.fr/wp-content/uploads/2021/02/2021-01-iNum-etude-impacts-numerique-France-rapport-0.8.pdf)*
 
 | % | Energie | Gaz à effet de serre | Eau | Ressources |
 |--|--|--|--|--|
@@ -48,14 +48,15 @@ Nous pouvons penser que la majorité de la pollution vient de l’électricité 
 En plus d’être coûteux à la fabrication, à l’échelle mondiale, seulement [17% des déchets électroniques sont recyclés](https://www.greenit.fr/2020/07/03/dechets-electroniques-21-en-5-ans/).
 
 
-Green IT détaille par acteurs qui sont les plus gros consommateurs de ressources et d’énergies :
+Green IT détaille par acteurs qui sont les plus gros consommateurs de ressources et d’énergies en France :
 1. les équipements des utilisateurs : **64 à 91 %** des impacts
 2. les réseaux : **5 à 21 %** des impacts
 3. les data centers : **4 à 15 %** des impacts
 
-Avoir des applications numériques peu gourmandes permet de garder plus longtemps les équipements et ainsi éviter l’obsolescence programmée.
+La fabrication de nos équipements, (smartphone, tablettes, desktop...) représente donc l'axe majeur sur lequel travailler pour réduire l'impact écologique du numérique. 
+A notre niveau, concevoir des applications numériques moins gourmandes, rationnaliser l'intégration de fonctionnalités qui nécessitent des équipements dernier cris (ex : Touch ID par exemple), peut y contribuer. Les utilisateurs de nos sites, applications et services numériques peuvent garder plus longtemps leurs équipements et sont moins incités à investir dans un matériel plus performant tous les ans. C'est un effort de longue haleine et collectif à produire, challengeant de part la complexité par exemple à maintenir d'anciennes versions, mais qui peut permettre de réduire le phénomène d’obsolescence programmée de nos équipements tout en favorisant l'inclusion numérique !
 
-**Les services numériques peuvent aider à la diminution de ces impacts écologiques par différentes recommandations.**
+**Les services numériques peuvent donc aider à la diminution de leurs propres impacts écologiques par différentes recommandations que l'on vous livre dans la suite de cet article.**
 
 # Comment éco-concevoir 🔨 ?
 ## Challengez vos fonctionnalités et leur mise en oeuvre 📝
